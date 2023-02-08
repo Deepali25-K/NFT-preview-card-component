@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 16px;
+}
+
+body{
+  background-color: hsl(217, 54%, 11%);
+  height: 100vh;
+  display: flex;
+	align-items: center;
+	justify-content: center;
+  flex-direction: column;
+  font-family: 'Outfit', sans-serif;
+}
+
+main{
+  background-color: hsl(216, 50%, 16%);
+  width: 21rem;
+  height: 30rem;
+  border-radius: 12px;
+  margin-bottom: ;
+  padding: 1.5rem;
+}
+
+.image{
+  background: url("/images/image-equilibrium.jpg") no-repeat;
+  background-size: contain;
+  height: 18rem;
+  width: 100%;
+  border-radius: 10px;
+}
+
+h1{
+  font-weight: 600;
+  color: hsl(0, 0%, 100%);
+}
+
+p{
+  font-weight: 300;
+  color: hsl(215, 51%, 70%);
+}
