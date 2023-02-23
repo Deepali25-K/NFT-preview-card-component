@@ -22,11 +22,11 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 WEB:
 
-![](/Screenshots/FM%20-%2004(1).png)
+![](/screenshots/FM-04(1).png)
 
 MOBILE:
 
-![](/Screenshots/FM%20-04(2).png)
+![](/screenshots/FM-04(2).png)
 
 ### Links
 
